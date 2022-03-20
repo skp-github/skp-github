@@ -5,7 +5,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=skp-github&label=Profile%20views&color=EC255A&style=for-the-badge" alt="skp-github" /> 
-	<a href="https://github.com/skp-github/github-readme-stats/issues">
+	<a href="https://github.com/anuraghazra/github-readme-stats/issues">
 	      <img alt="Issues" src="https://img.shields.io/github/issues/skp-github/github-readme-stats?color=0088ff&style=for-the-badge" />
 	    </a>
 	    <a href="https://github.com/skp-github/github-readme-stats/pulls">
