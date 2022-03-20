@@ -19,21 +19,22 @@
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skp-github&theme=onedark&row=1" alt="skp-github" /></a> </p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skp-github&show_icons=true&locale=en" alt="skp-github" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skp-github&show_icons=true&locale=en&count_private=true&theme=gruvbox" alt="skp-github" /></p>
 
 
 - 🌱 I’m currently learning **Quantum Machine learning**
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Saurabh-Pandey-575](https://www.quora.com/profile/Saurabh-Pandey-575)
 
-- 💬 Ask me about **Adversarial attacks on ML agents, Autonomous Driving, Data engineering,**
+- 💬 Ask me about **Adversarial attacks on ML agents, Autonomous Driving, Data engineering**
 
-- 📫 How to reach me **saurabh.pandey.2171993@gmail.com**
+- 📫 How to reach me **Scroll Down 😊**
 
-- ⚡ Fun fact **I can roll my eyes to freak you out**
+- ⚡ Fun fact **I like fun facts**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-pandey-5105b386/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-pandey-5105b386/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9517564/doodle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9517564/doodle" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/saurabhpandey21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/saurabhpandey21" height="30" width="40" /></a>
