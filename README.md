@@ -19,7 +19,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skp-github&theme=buddhism&row=1" alt="skp-github" /></a> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skp-github&show_icons=true&locale=en&count_private=true&theme=gruvbox" alt="skp-github" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skp-github&show_icons=true&locale=en&theme=gruvbox" alt="skp-github" /></p>
 
 
 - 🌱 I’m currently learning **Quantum Machine learning**
