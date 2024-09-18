@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Pandey aka Doodle</h1>
-<h3 align="center">A Machine learning engineer who is a fullstack developer. I'm computer vision major with 4+years of working experience.</h3>
+<h3 align="center"> An AI engineer with backend development experience. I'm a computer vision major with 5 years of working experience.</h3>
 
 
 <p align="center"> 
@@ -22,15 +22,11 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skp-github&show_icons=true&locale=en&theme=gruvbox" alt="skp-github" /></p>
 
 
-- 🌱 I’m currently learning **Quantum Machine learning**
+- 🌱 I’m open to research collaborations
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Saurabh-Pandey-575](https://www.quora.com/profile/Saurabh-Pandey-575)
-
-- 💬 Ask me about **Adversarial attacks on ML agents, Autonomous Driving, Data engineering**
+- 💬 Ask me about **Optimization in LLMs, Quantum computer vision, anything and everything about tech ( not javascript please :P )**
 
 - 📫 How to reach me **Scroll Down 😊**
-
-- ⚡ Fun fact **I like fun facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
